@@ -1,0 +1,6 @@
+{
+  ""name"": ""rndproj-vq8chiig"",
+  ""goal"": ""index builder for reporting"",
+  ""language"": ""go"",
+  ""template"": ""go-cli""
+}
