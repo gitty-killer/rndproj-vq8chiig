@@ -1,4 +1,2 @@
-# rndproj-vq8chiig
-
-Random web project for tools.
-
+# rndproj-vq8chiig\n\nSmall log summarizer tool.\n
+New-FileDef
